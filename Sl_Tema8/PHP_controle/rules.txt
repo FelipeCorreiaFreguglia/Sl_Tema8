@@ -1,0 +1,5 @@
+vazamento_gas=fechar_registro, enviar_alerta, abrir_janelas_portas, ativar_alerta_bombeiros, desligar_energia
+fumaça=ligar_luzes, desligar_energia, ativar_alerta_bombeiros, ativar_alerta_proprietario, ativar_sprinkles, ativar_alarme_incendio
+invasao=ligar_alarme, trancar_portas_janelas, chamar_policia, ativar_alerta_proprietario
+falta_energia=ligar_luzes_emergencia, alerta_cemig, alerta_proprietário
+vazamento_agua=fechar_registro, enviar_alerta, abrir_ralos
